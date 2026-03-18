@@ -1,0 +1,26 @@
+"Cluster_ID","Specific_Identity","Broad_Lineage","Cell_Count"
+"0","Malignant (Differentiated-like)","Epithelial",7460
+"1","Macrophages/Monocytes","Myeloid",4290
+"2","Malignant (Differentiated-like)","Epithelial",3297
+"3","Endothelial Cells","Stroma",2916
+"4","Differentiated Thyrocytes","Epithelial",2723
+"5","T-cells","Lymphoid",2220
+"6","Pericytes","Stroma",2175
+"7","Malignant (Mesenchymal/mATC)","Epithelial",2107
+"8","Malignant (Differentiated-like)","Epithelial",1977
+"9","Malignant (Mesenchymal/mATC)","Epithelial",1941
+"10","Fibroblasts (CAFs)","Stroma",1847
+"11","Mast Cells","Myeloid",1775
+"12","Malignant (Mesenchymal/mATC)","Epithelial",1700
+"13","Mast Cells","Myeloid",1694
+"14","Malignant (Inflammatory/iATC)","Epithelial",1506
+"15","B-cells","Lymphoid",1388
+"16","Macrophages/Monocytes","Myeloid",1064
+"17","Malignant (Differentiated-like)","Epithelial",443
+"18","T-cells","Lymphoid",392
+"19","T-cells","Lymphoid",273
+"20","Malignant (Mesenchymal/mATC)","Epithelial",256
+"21","B-cells","Lymphoid",155
+"22","Pericytes","Stroma",74
+"23","Differentiated Thyrocytes","Epithelial",65
+"24","Malignant (Differentiated-like)","Epithelial",18
